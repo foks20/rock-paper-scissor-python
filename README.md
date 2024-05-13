@@ -8,7 +8,7 @@ This project demonstrates how to create a rock, paper, scissor game in Python.
 ## Usage
 
 1. clone project   
-2. open project `cd rrock-paper-scissor-python
+2. open project `cd rock-paper-scissor-python
 
 
 
